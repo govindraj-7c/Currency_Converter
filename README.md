@@ -24,5 +24,8 @@ This is a simple and interactive Currency Converter web application that allows 
 - Exchange Rate API: Provides real-time currency exchange rates.
 - Flag API: Supplies flags of different countries.
 
-## Live Projct
+## Live Project
 **Link** : https://cc-project.netlify.app/
+
+## Screenshot :
+![Screenshot (30)](https://github.com/user-attachments/assets/782c065c-e872-4d52-b292-d08257e1ef99)
